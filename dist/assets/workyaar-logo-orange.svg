@@ -1,0 +1,11 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="84" y="84" width="344" height="344" rx="20" fill="#ff6417"/>
+  <path d="M111 111L162 84H350L401 111V260C401 328 335 379 256 415C177 379 111 328 111 260V111Z" fill="#ff6417"/>
+  <path d="M111 111L162 84H350L401 111V260C401 328 335 379 256 415C177 379 111 328 111 260V111Z" stroke="#27317f" stroke-width="16" stroke-linejoin="round"/>
+  <text x="256" y="184" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="66" font-weight="900" fill="#ff7a2a" letter-spacing="2">WORK</text>
+  <text x="256" y="258" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="76" font-weight="900" fill="#27317f" letter-spacing="1">YAAR</text>
+  <path d="M178 316H300C313 316 323 326 323 339V363H160V339C160 326 166 316 178 316Z" fill="none" stroke="#ff7a2a" stroke-width="13" stroke-linejoin="round"/>
+  <path d="M207 316V296C207 286 215 278 225 278H274C284 278 292 286 292 296V316" stroke="#ff7a2a" stroke-width="13" stroke-linecap="round"/>
+  <path d="M254 373L365 280" stroke="#ff7a2a" stroke-width="13" stroke-linecap="round"/>
+  <path d="M338 277L383 257L366 303" stroke="#ff7a2a" stroke-width="13" stroke-linejoin="round"/>
+</svg>
